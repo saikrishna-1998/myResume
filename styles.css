@@ -1,5 +1,5 @@
 body {
-    background-color: #4413f7;
+    background-color: #f155ea;
   
     font-family: "PT Serif", serif;
   }
@@ -17,11 +17,11 @@ body {
   }
   .card1 {
     text-align: center;
-    background-color: #9ca2f7;
+    background-color: #f79cf3;
   }
   .card2 {
     padding: 1.5rem;
-    background-color: #9ca2f7;
+    background-color: #f3b6f5;
   }
   .img1 {
     border-radius: 50%;
